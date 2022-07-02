@@ -10,7 +10,7 @@ width="500px"
 position="center">
 </p>
   
-   Hi there! so recently I was surfing the internet to gather some information related to the servo motors but I was not able to find clear information regarding to it which didn't fulfilled my motive. So to make information regarding to servos more clear I have written this blog with my own knowledge and also with the help of internet. This blog contains all the basic information regarding to the servos also a DIY to practice yourself! Hope you will like it.
+  Hi there! So recently I was surfing the internet to gather some information about servo motors. Still, I could not find clear details regarding it, which didn't fulfil my motive. So to make information regarding servos clearer, I have written this blog with my knowledge and the help of the internet. This blog contains all the essential details regarding the servos and a DIY to practice yourself! I hope you will like it.
 
    
  ## What are servo motors?
