@@ -286,4 +286,4 @@ There are various projects which you can make by using servo motors from this li
 
 ---
 
-Thank YOU !!!
+Happy learning !!!
