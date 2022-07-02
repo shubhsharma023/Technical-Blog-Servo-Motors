@@ -74,7 +74,7 @@ As a servo motor capable of accurate rotation angle and speed control, it can be
 - Standard or Planetary Geared Type
 - Electromagnetic Brake Types
 
-Generally, there are several applications of servo motors in our world related from the above points:
+Generally, there are several applications of servo motors in our world, some of the points related to above topics are :
 
 <p align="center">
 <image src="robotic.jpg"
