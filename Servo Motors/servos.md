@@ -2,13 +2,18 @@
 
 > By : Shubhankar Sharma
 
-## What are servo motors?
+
 
 <p align="center">
 <image src="thumb.jpg"
 width="500px"
 position="center">
 </p>
+  
+   Hi there! so recently I was surfing the internet to gather some information related to the servo motors but I was not able to find clear information regarding to it which didn't fulfilled my motive. So to make information regarding to servos more clear I have written this blog with my own knowledge and also with the help of internet. This blog contains all the basic information regarding to the servos also a DIY to practice yourself! Hope you will like it.
+
+   
+ ## What are servo motors?
 
 The term servo was first used by **_Joseph Farcot_** in 1859, who implemented a feedback mechanism to assist in steering a ship with steam to control the rudders. Servo motors are electromechanical devices and rotary or linear actuators that rotate and push machine parts with precision and produce torque and velocity based on the supplied current and voltage. They are specialized for high precision and response positioning. They are easily controlled, and their starting torque is high, so they are usually preferred industrially.
 
@@ -199,7 +204,7 @@ When a machine using a servo is stopped, the motor continues to move back and fo
 
 ## DIY Example of a Servo Motor :
 
-We will now see how the servo motor works. We will create a simple example where we use PICO to rotate our servo motor from 0 to 180 degree and vice-versa. For this hardwares required are :
+We will now see how the servo motor works. We will create a simple example where we use PICO to rotate our servo motor from 0 to 180 degree and vice-versa. You can also perform this DIY using [Tinkercad](https://www.tinkercad.com/) in your system. For performing this hardwares required are :
 
 1. Arduino Board
 1. Servo Motor (SG90)
