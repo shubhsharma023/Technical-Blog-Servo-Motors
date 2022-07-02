@@ -147,7 +147,6 @@ width="500px"
 position="center">
 </p>
 <br>
-<br>
    
 1. **Stator** From the position of the rotor, a rotating magnetic field is created to efficiently generate torque.
 2. **Winding** Current flows in the winding to create a rotating magnetic field.
